@@ -11,7 +11,7 @@ $ npm install remove-css-dots
 ### Usage
 
 ```javascript
-const removeCssDots = require('remove-css-dots);
+const removeCssDots = require('remove-css-dots');
 
 // you have some compiled css with dots
 const cssWithDots = {
